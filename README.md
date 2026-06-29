@@ -46,7 +46,7 @@ To build secure, production-grade research tools, I maintain a rigorous foundati
 ### Active Repositories
 * 📦 **[Google-Cybersecurity-Labs](https://github.com/otienobrian59-lang/google-cyber-labs)** — Core repository documenting hands-on laboratory exercises, defense frameworks (NIST, CIA Triad), and network analysis write-ups.
 * 📦 **[Python-Port-Scanner](https://github.com/otienobrian59-lang/Python-Port-Scanner)** — A clean, multi-threaded socket configuration for mapping host vulnerability baselines and active port reconnaissance.
-* 📦 **[SIEM-Simulations-Log-Analysis](https://github.com/otienobrian59-lang/SIEM-simulations)** — Ingesting, parsing, and defining custom detection logic for server logs to actively isolate indicators of compromise (IoCs).
+* 📦 **[SIEM-Simulations-Log-Analysis](https://github.com/otienobrian59-lang/SIEM-simulations-Log-Analysis)** — Ingesting, parsing, and defining custom detection logic for server logs to actively isolate indicators of compromise (IoCs).
 
 ---
 
