@@ -62,9 +62,12 @@ Python
 
 ## Certifications ##
 
-Google Cybersecurity Professional - In progress.
+- Google Cybersecurity Professional - In progress.
+- Harvard CS50X Introduction to Computer Science. - planned
+- Nand2tetris - planned.
 
-MIT Missing Semester - Planned.
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
