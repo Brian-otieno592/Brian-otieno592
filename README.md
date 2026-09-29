@@ -28,7 +28,7 @@ ________________________________________________________________________________
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Planned Work ##
-[small database/computational engine](https://github.com/Brian-otieno592/computational_cli)
+[small database/computational engine](https://github.com/Brian-otieno592/computational_cli)    
 A database and computation engine built as a command-line tool. The project will progressively implement core computer science concepts including data structures, algorithms, persistent storage, indexing, parsing, query execution, concurrency, networking, and crash recovery.
 
 The goal is to build a working system while demonstrating a deep understanding of how computer systems work underneath high-level abstractions.
