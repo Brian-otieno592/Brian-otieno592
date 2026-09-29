@@ -21,23 +21,18 @@ ________________________________________________________________________________
 
 | Repository Name            | Description |
 |----------------------------|-----------|
-| [secure-computing](https://github.com/Brian-otieno592/secure-computing)         | Security-focused work, including certifications, defensive systems, and projects related to building safe and resilient computing systems. |
+| [secure-computing](https://github.com/Brian-otieno592/secure-computing)         | Security-focused work -- certifications, defensive systems, and projects related to building safe and resilient computing systems. |
 | [computing-fundamentals](https://github.com/Brian-otieno592/computing-fundamentals)  | Exploration of the core principles of computation — how it is represented, executed, scheduled, moved, and optimized across different substrates. |
 | [systems-architecture](https://github.com/Brian-otieno592/systems-architecture)     | Study and design of computing systems, covering structure, organization, and the interaction between hardware, software, and emerging computational models. |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Planned Work ##
+[small database/computational engine](https://github.com/Brian-otieno592/computational_cli)
+A database and computation engine built as a command-line tool. The project will progressively implement core computer science concepts including data structures, algorithms, persistent storage, indexing, parsing, query execution, concurrency, networking, and crash recovery.
 
-`Systems / low-level: simple OS concepts, memory allocator, basic shell, or toy filesystem`
+The goal is to build a working system while demonstrating a deep understanding of how computer systems work underneath high-level abstractions.
 
-`Algorithms & data structures: clean implementations + visualizations or benchmarks`
-
-`Programming language / interpreters: tiny language or Lisp/Scheme interpreter`
-
-`Networking or distributed systems basics (without pure “hacking” framing)`
-
-`Something that reuses your cyber knowledge quietly (e.g., secure coding practices, threat modeling in a normal app) but frames it as good engineering`
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
