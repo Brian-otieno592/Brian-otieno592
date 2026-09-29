@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 | Repository Name            | Description |
 |----------------------------|-----------|
-| [secure-computing](https://github.com/Brian-otieno592/secure-computing)         | Security-focused work -- certifications, defensive systems, and projects related to building safe and resilient computing systems. |
+| [secure-computing](https://github.com/Brian-otieno592/secure-computing)         | Security-focused work ~ it includes certifications, defensive systems, and projects related to building safe and resilient computing systems. |
 | [computing-fundamentals](https://github.com/Brian-otieno592/computing-fundamentals)  | Exploration of the core principles of computation — how it is represented, executed, scheduled, moved, and optimized across different substrates. |
 | [systems-architecture](https://github.com/Brian-otieno592/systems-architecture)     | Study and design of computing systems, covering structure, organization, and the interaction between hardware, software, and emerging computational models. |
 
