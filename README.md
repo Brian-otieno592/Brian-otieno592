@@ -64,6 +64,7 @@ Python
 
 - Google Cybersecurity Professional - In progress.
 - Harvard CS50X Introduction to Computer Science. - planned
+- Stanford Algorithms Specialization - Planned.
 - Nand2tetris - planned.
 
 
