@@ -17,10 +17,28 @@ Computer scientist interested in the fundamentals of computation — how it is r
 - Quantum systems.
 _________________________________________________________________________________________________________________________________________________________
 
+## Curie ##
+
+> *Scientific Pioneer*
+
+Building [**SSR**](https://github.com/Brian-otieno592/ssr) — a self-healing, self-synthesizing enterprise runtime.
+
+SSR monitors its own telemetry and enforces policy-gated mutations across all system state.
+Every change is identity-bound, dual-approved where required, durably audited, and reversible under emergency freeze.
+
+| | |
+|---|---|
+| **Status** | Layer 1 in hardening |
+| **Stack** | Go · OPA · SPIRE · Keycloak · OpenBao · Kubernetes |
+| **Repo** | [Brian-otieno592/ssr](https://github.com/Brian-otieno592/ssr) |
+
+_________________________________________________________________________________________________________________________________________________________
+
 ## Portfolio ##
 
 | Repository Name            | Description |
-|----------------------------|-----------|
+|----------------------------|-----------| 
+| [ssr](https://github.com/Brian-otieno592/ssr) | Curie SSR — A self-healing, self-synthesizing enterprise runtime that monitors its own telemetry and enforces policy-gated mutations. |
 | [secure-computing](https://github.com/Brian-otieno592/secure-computing)         | Security-focused work ~ It includes certifications, defensive systems, and projects related to building safe and resilient computing systems. |
 | [computing-fundamentals](https://github.com/Brian-otieno592/computing-fundamentals)  | Exploration of the core principles of computation — how it is represented, executed, scheduled, moved, and optimized across different substrates. |
 | [systems-architecture](https://github.com/Brian-otieno592/systems-architecture)     | Study and design of computing systems, covering structure, organization, and the interaction between hardware, software, and emerging computational models. |
@@ -51,7 +69,7 @@ TCP/IP · Network Security · System Hardening · Network Architecture
 Linux · Bash · SQL
 
 **Languages**  
-Python
+Python · Go
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -61,7 +79,6 @@ Python
 - Harvard CS50X Introduction to Computer Science. - planned
 - Stanford Algorithms Specialization - Planned.
 - Nand2tetris - planned.
-
 
 
 
@@ -84,8 +101,3 @@ Python
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="30" height="30" alt="Email"/>
   </a>
 </p>
-
-
-
-
-
